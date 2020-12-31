@@ -83,6 +83,7 @@ form {
   background: var(--color-1);
   padding: 2.5rem 0.625rem;
   border-radius: 15px;
+  margin-bottom: 20px;
 }
 .form-group {
   margin: 0 auto 1.25rem auto;
